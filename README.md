@@ -16,6 +16,10 @@ Contact
 
 Please, for any further comment, address your inquiries at ignasiarranz@gmail.com
 
+Cite
+
+[![DOI](https://zenodo.org/badge/587772189.svg)](https://zenodo.org/badge/latestdoi/587772189)
+
 References
 
 Irz, P., Vigneron, T., Poulet, N., Cosson, E., Point, T., Baglinière, E., & Porcher, J.-P. (2022). A long-term monitoring database on fish and crayfish species in French rivers. Knowledge & Management of Aquatic Ecosystems, 25, 1–10.
